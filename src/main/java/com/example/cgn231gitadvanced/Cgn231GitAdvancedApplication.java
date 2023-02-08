@@ -10,6 +10,7 @@ public class Cgn231GitAdvancedApplication {
         System.out.println("Hey! Ich schreibe hier oben");
         SpringApplication.run(Cgn231GitAdvancedApplication.class, args);
         System.out.println("Hendrik war hier :)");
+        System.out.println("Whoop Whoop");
     }
 
 }
