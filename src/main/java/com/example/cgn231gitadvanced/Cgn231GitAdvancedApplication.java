@@ -8,6 +8,8 @@ public class Cgn231GitAdvancedApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(Cgn231GitAdvancedApplication.class, args);
+
+        System.out.println("Hallo");
     }
 
 }
