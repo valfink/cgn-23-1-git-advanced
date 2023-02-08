@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Cgn231GitAdvancedApplication {
 
     public static void main(String[] args) {
+        System.out.println("Hey! Ich schreibe hier oben");
         SpringApplication.run(Cgn231GitAdvancedApplication.class, args);
     }
 
